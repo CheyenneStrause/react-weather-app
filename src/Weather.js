@@ -64,7 +64,7 @@ export default function Weather(props) {
         <footer>
           This project was coded by <strong>Cheyenne Strause</strong> and is{" "}
           <a
-            href="https://github.com/cheyennestrause"
+            href="https://github.com/CheyenneStrause/react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
