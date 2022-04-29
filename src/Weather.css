@@ -22,10 +22,13 @@
   font-size: 16px;
   height: 50px;
   line-height: 20px;
+  caret-color: #d30bee;
 }
 
 .Weather .btn {
-  background: #d85df1;
+  background-image: linear-gradient(to right, #667eea, #764ba2, #8e37d7);
+  box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+  transition: 4s ease-in-out;
   font-weight: bold;
   font-size: 16px;
   padding: 15px 0;
@@ -33,12 +36,8 @@
   height: 50px;
 }
 
-.Weather .btn:focus {
-  background-color: #8b0c9c;
-}
-
-.Weather .btn:hover {
-  background-color: #8b0c9c;
+.Weather .btn:active {
+  outline: none;
 }
 
 .Weather .search-input::placeholder {
