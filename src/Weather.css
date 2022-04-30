@@ -52,7 +52,7 @@
   margin: 20px 0 10px 0;
   line-height: 29px;
   font-weight: bold;
-  font-size: 38px;
+  font-size: 28px;
   line-height: 48px;
   color: #272142;
 }
@@ -83,7 +83,7 @@
   font-weight: 400;
   margin-left: 10px;
   font-weight: bold;
-  font-size: 80px;
+  font-size: 70px;
   line-height: 1;
 }
 
@@ -93,7 +93,7 @@
 
 .Weather .unit {
   color: rgb(33, 33, 33);
-  font-size: 28px;
+  font-size: 20px;
   line-height: 40px;
   font-weight: normal;
   position: relative;
