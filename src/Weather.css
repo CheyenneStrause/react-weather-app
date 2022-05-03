@@ -39,10 +39,6 @@
   height: 50px;
 }
 
-.Weather .btn:active {
-  outline: none;
-}
-
 .Weather .search-input::placeholder {
   line-height: 20px;
   color: rgba(34, 28, 59, 0.4);
